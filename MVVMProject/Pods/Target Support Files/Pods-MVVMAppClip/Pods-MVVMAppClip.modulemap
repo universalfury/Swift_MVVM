@@ -1,0 +1,6 @@
+framework module Pods_MVVMAppClip {
+  umbrella header "Pods-MVVMAppClip-umbrella.h"
+
+  export *
+  module * { export * }
+}
